@@ -509,6 +509,7 @@
 ![功能](https://img.shields.io/badge/功能-blue.svg)
 
 - 修正关卡对音
+
 **仅Windows**
 - 更新分辨率设置界面，现在允许非屏幕最大分辨率开启全屏模式。
 
